@@ -1,0 +1,1 @@
+Repositório destinado às atividades e projetos desenvolvidos na disciplina de Desenvolvimento Front-End Web. O conteúdo inicial aborda a criação de páginas utilizando HTML, estrutura semântica, links, imagens, listas, tabelas e formulários.
