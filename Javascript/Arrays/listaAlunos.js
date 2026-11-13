@@ -1,0 +1,5 @@
+let alunos = ["Anna", "Luisa", "Lucas", "Vitor"];
+console.log(alunos[0]);
+console.log(alunos[1]);
+console.log(alunos[2]);
+console.log(alunos[3]);
