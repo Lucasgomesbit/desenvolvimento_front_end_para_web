@@ -1,0 +1,67 @@
+ <h2>Histórico de Campeões</h2>
+
+            <p>
+                Confira os últimos campeões do Campeonato Brasileiro
+                e relembre os clubes que fizeram história na competição.
+            </p>
+
+        <table>
+
+                <tr>
+                    <th>Ano</th>
+                    <th>Campeão</th>
+                </tr>
+            
+
+            
+                <tr>
+                    <td>2025</td>
+                    <td>Flamengo</td>
+                </tr>
+
+                <tr>
+                    <td>2024</td>
+                    <td>Botafogo</td>
+                </tr>
+
+                <tr>
+                    <td>2023</td>
+                    <td>Palmeiras</td>
+                </tr>
+
+                <tr>
+                    <td>2022</td>
+                    <td>Palmeiras</td>
+                </tr>
+
+                <tr>
+                    <td>2021</td>
+                    <td>Atlético-MG</td>
+                </tr>
+
+                <tr>
+                    <td>2020</td>
+                    <td>Flamengo</td>
+                </tr>
+
+                <tr>
+                    <td>2019</td>
+                    <td>Flamengo</td>
+                </tr>
+
+                <tr>
+                    <td>2018</td>
+                    <td>Palmeiras</td>
+                </tr>
+
+                <tr>
+                    <td>2017</td>
+                    <td>Corinthians</td>
+                </tr>
+
+                <tr>
+                    <td>2016</td>
+                    <td>Palmeiras</td>
+                </tr>
+            
+        </table>
